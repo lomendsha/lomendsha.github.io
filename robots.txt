@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lomendsha.github.io/sitemap.html.gz
+Sitemap: https://lomendsha.github.io/app/sitemap.html.gz
+Sitemap: https://lomendsha.github.io/assets/sitemap.html.gz
+Sitemap: https://lomendsha.github.io/css/sitemap.html.gz
+Sitemap: https://lomendsha.github.io/includes/sitemap.html.gz
+Sitemap: https://lomendsha.github.io/item/sitemap.html.gz
+Sitemap: https://lomendsha.github.io/src/sitemap.html.gz
